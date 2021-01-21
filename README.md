@@ -1,3 +1,2 @@
 # Laba5
-# Ivan INS 17-1
-# Laba5
+# IVANINS 17-1 LAB5
